@@ -1,0 +1,22 @@
+body {   
+    background-color: rgba(0, 0, 255, 0.76);
+
+  }
+
+.title-1 {
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    left: 0%;
+    right: 0%;
+    font-size: 12px;
+  }
+
+nav a {
+    color: rgb(255, 255, 255);
+    background-color: blue;
+  }
+
+.img-title-1 {
+    border-radius: 5px;    
+    
+  }
